@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "atlas-cloud": {
+      "source": "AtlasCloudAI/atlas-cloud-skills",
+      "sourceType": "github",
+      "skillPath": "atlas-cloud/SKILL.md",
+      "computedHash": "54710cbdf64097365f08e99ad3a54d45af004fb0428808b0d3eac0a1b5b7d337"
+    },
+    "seedance-2-5-skill": {
+      "source": "AtlasCloudAI/atlas-cloud-skills",
+      "sourceType": "github",
+      "skillPath": "skills/seedance-2-5-skill/SKILL.md",
+      "computedHash": "8d12eaf3669acf26d0bc24c32d6299154655fb9986af8b401db96552f7d265a1"
+    },
+    "universal-video-prompt-skill": {
+      "source": "AtlasCloudAI/atlas-cloud-skills",
+      "sourceType": "github",
+      "skillPath": "skills/universal-video-prompt-skill/SKILL.md",
+      "computedHash": "42765af804fee2bd4a1348d78765965cb77c4be1f79127eda90b6b83e47a5b19"
+    }
+  }
+}
